@@ -36,10 +36,11 @@ The primary objective of this project is to develop a user-friendly Library Mana
 
 ### Technologies Used
 
-Programming Language: Java
-Integrated Development Environment (IDE): IntelliJ IDEA
-Data Persistence: File handling using ObjectOutputStream and ObjectInputStream
-Object-Oriented Programming (OOP): Implementing OOP principles to create a modular and maintainable codebase
+#### Programming Language: Java
+
+#### Integrated Development Environment (IDE): IntelliJ IDEA
+#### Data Persistence: File handling using ObjectOutputStream and ObjectInputStream
+#### Object-Oriented Programming (OOP): Implementing OOP principles to create a modular and maintainable codebase
 About This Task
 This task involves developing a Library Management System that can handle various operations related to managing library resources. The system will include the following functionalities:
 
