@@ -73,6 +73,6 @@ Through this project, we have addressed the critical aspects of library manageme
 
 Overall, the Library Management System is a significant step towards modernizing library operations, ensuring that libraries can continue to offer efficient and reliable services in a digital age.
 
-### Output
+## Output
 
 ![Screenshot 2024-06-03 235037](https://github.com/jyoshna08/CODTECH-Internship-Task-2/assets/171473485/a8625aac-195e-4114-b2f7-779757f6e6af)
