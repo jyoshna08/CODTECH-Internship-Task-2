@@ -46,12 +46,12 @@ The primary objective of this project is to develop a user-friendly Library Mana
 
 This task involves developing a Library Management System that can handle various operations related to managing library resources. The system will include the following functionalities:
 
-#### Adding New Items: The system will allow librarians to add new items to the library, such as books, magazines, and DVDs.
-#### Checking Out Items: Patrons will be able to check out items from the library by specifying the title and due date.
-#### Returning Items: Patrons will be able to return items to the library, and the system will update the status of the items accordingly.
-#### Managing Overdue Fines: The system will keep track of overdue items and calculate fines based on the due date.
-#### Searching for Items: Users will be able to search for items by title, author, or category.
-#### Data Persistence: The system will save and load library items using file handling to ensure data persistence.
+##### Adding New Items: The system will allow librarians to add new items to the library, such as books, magazines, and DVDs.
+##### Checking Out Items: Patrons will be able to check out items from the library by specifying the title and due date.
+##### Returning Items: Patrons will be able to return items to the library, and the system will update the status of the items accordingly.
+##### Managing Overdue Fines: The system will keep track of overdue items and calculate fines based on the due date.
+##### Searching for Items: Users will be able to search for items by title, author, or category.
+##### Data Persistence: The system will save and load library items using file handling to ensure data persistence.
 
 ### Related Content
 To further understand the context and functionalities of a Library Management System, you may refer to the following
