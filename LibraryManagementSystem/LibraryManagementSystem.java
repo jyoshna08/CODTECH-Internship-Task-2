@@ -8,7 +8,7 @@ public class LibraryManagementSystem {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.println("Library Management System");
+            System.out.println("Added Successfully to Library Management System");
             System.out.println("1. Add new item");
             System.out.println("2. Check out item");
             System.out.println("3. Return item");
